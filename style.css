@@ -97,8 +97,8 @@ h6 {
 	position: relative;
 }
 .banner {
-	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: #018786;
+	background: linear-gradient(to left, #018786, #02a6a5);
 	padding:100px 0px;
 	position:relative;
 }
@@ -188,7 +188,7 @@ h6 {
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background:  linear-gradient(to left, #7a60ff, #cd9ffa);
+	background:  linear-gradient(to left, #018786, #02a6a5);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -322,7 +322,7 @@ h6 {
 }
 .testimonial {
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #018786, #02a6a5);
 	padding:100px 0px;
 	position:relative;
 }
@@ -435,14 +435,14 @@ input {
 	border-radius: 2rem;
 	border: 0;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #018786, #02a6a5);
 	cursor:pointer;
 }
 .contact-info {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #018786, #02a6a5);
 }
 .contact-item {
 	margin:23px 0px;
@@ -456,7 +456,7 @@ input {
 }
 .download {
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #018786, #02a6a5);
 	padding:100px 0px;
 	position:relative;
 }
